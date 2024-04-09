@@ -1,0 +1,12 @@
+/* Add your CSS styles here */
+html,
+body,
+#map,
+.map {
+    height: 97%;
+    width: 100%;
+}
+
+.navbar .dropdown-menu {
+    z-index: 1000; /* Adjust the value as needed */
+  }
